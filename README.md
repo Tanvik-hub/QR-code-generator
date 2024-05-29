@@ -21,6 +21,8 @@ A simple web application for generating QR codes from text or URLs. Users can en
 2. Click the "Generate QR CODE" button.
 3. The QR code will be displayed on the screen.
 
+- i did this project just to see how to work with api's
+
 
 
 **License:**
