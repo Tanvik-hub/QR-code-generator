@@ -1,7 +1,7 @@
 **QR Code Generator**
 
 **Description:**
-A simple web application for generating QR codes from text or URLs. Users can enter the text or URL they want to encode, click a button, and the QR code will be displayed on the screen. The QR codes are generated using the QR Server API.
+A simple web application for generating QR codes from text or URLs. Users can enter the text or URL they want to encode, click a button, and the QR code will be displayed on the screen. The QR codes are generated using the QR Server API.💻
 
 **Features:**
 - Input field for entering text or URL.
